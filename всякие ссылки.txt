@@ -1,0 +1,26 @@
+https://tproger.ru/translations/rewrite-sql-queries-in-pandas/amp/
+
+https://creativedata.atlassian.net/wiki/spaces/SAP/pages/130318375/Python+-+Read+Write+tables+from+PostgreSQL+with+Security
+
+https://flask-russian-docs.readthedocs.io/ru/latest/quickstart.html
+
+https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3-ru
+
+
+https://habr.com/ru/company/ruvds/blog/492220/
+
+https://networklore.com/ztp-tutorial/requirements/
+
+
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/
+
+https://www.sql.ru/forum/759313/update-neskolkih-poley
+
+
+https://docs.python.org/2/library/socket.html
+
+_________________________________________________________
+Самая быстрая вставка в базы данных на всём диком западе!
+
+https://hakibenita.com/fast-load-data-python-postgresql
+_________________________________________________________
